@@ -1,0 +1,28 @@
+.container
+{
+    display: flex;   
+    margin-top: auto;
+    justify-content: space-around;
+}
+.h1
+{
+    color:blue;
+}
+.search
+{
+   padding: 28px;
+   display: flex;
+   margin-left: auto;
+   margin-right: auto;
+    
+}
+.nav
+{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding:28px;
+}
+.nav a{
+    margin:5px;
+}
